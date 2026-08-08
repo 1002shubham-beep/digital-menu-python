@@ -1,4 +1,3 @@
-# digital-menu-python
 # 🍔 Byte & Bite — Digital Menu
 
 > My first Python project — a simple interactive restaurant ordering system built while learning Python.
